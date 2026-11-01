@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hongtao Wei
 
-<!--
-**taogetaoge/taogetaoge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Master's Student in Electronic Information**
 
-Here are some ideas to get you started:
+College of Computer Science and Artificial Intelligence, Wenzhou University, China.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Contact Information**
+
+- Email: 在这里填写你注册 OpenReview 时使用的完整 QQ 邮箱
+- GitHub: https://github.com/taogetaoge
+
+**Research Interests**
+
+- Medical Image Analysis
+- Deep Learning
+- 3D Brain MRI
+- Alzheimer's Disease Diagnosis
