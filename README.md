@@ -6,7 +6,7 @@ College of Computer Science and Artificial Intelligence, Wenzhou University, Chi
 
 **Contact Information**
 
-- Email: 在这里填写你注册 OpenReview 时使用的完整 QQ 邮箱
+- Email: 3219474560@qq.com
 - GitHub: https://github.com/taogetaoge
 
 **Research Interests**
